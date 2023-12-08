@@ -1,0 +1,24 @@
+item {
+  id: 1
+  name: 'Water'
+}
+
+item {
+  id: 2
+  name: 'Water with Tea Leaves'
+}
+
+item {
+  id: 3
+  name: 'Boiling water with tea leaves'
+}
+
+item {
+  id: 4
+  name: 'Tea with Milk'
+}
+
+item {
+  id: 5
+  name: 'Boiling tea with Milk'
+}
