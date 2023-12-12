@@ -86,9 +86,7 @@ using Keras and Tensorflow. The resulting model I will embed in an app to make p
 What did your research find?
 Deep Learning(DL) models trained using Tensorflow and Keras were able to achieve a higher accuracy then other image 
 classification models. Also DL models without dropout was able to achieve the highest accuracy for train/test dataset. 
-This does seem to align with the fact that the model overfitted to the provided datasets. 
-
-
+This does seem to align with the fact that the model overfitted to the provided datasets.
 
 I was also able to embed the model into an Android app and was able to invoke model on the real time images taken from the camera.
 
@@ -115,11 +113,12 @@ classes of images belonging to preperation steps for different dishes to make it
 - [Link to categorized images of the dataset](./data/classes/)
 - [Link to model](./assets/model.tflite)
 - [DL model layers](./images/model.tflite.png)
-- [Link to android app](./android)
+- [Link to recordings of the android app](./README_APP.md)
+- [Link to notebook to add model metadata for the tensorflow model](./model_metadata.ipynb)
 
 
 ##### Contact and Further Information
-Please reach out pulkit.bhanot@gmail.com for any questions.
+Please reach out pulkit.bhanot@gmail.com for any questions. Code for the Android app is not checked in the repo and is available on request.
 
 ##### References
 While preparing this project, I used the following references.
